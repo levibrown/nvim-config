@@ -1,0 +1,8 @@
+require('config.options')
+require('config.remap')
+require('config.plugins')
+require('config.theme')
+require('config.status-bar')
+require('config.lsp-config')
+require('config.treesitter')
+require('config.telescope')
